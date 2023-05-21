@@ -20,10 +20,11 @@ Benefits are displayed at the right side of the page which are lead generation, 
 
 The following images show the web application's appearance and functionality   :
 
-
 ![Horiseon 1](assets/images/horiseon1.png)
 ![Horiseon 2](assets/images/horiseon1.png)
 ![Horiseon 3](assets/images/horiseon1.png)
+
+
 
 ## Credits
 
