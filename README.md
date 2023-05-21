@@ -21,10 +21,12 @@ Benefits are displayed at the right side of the page which are lead generation, 
 The following images show the web application's appearance and functionality   :
 
 ![Horiseon 1](assets/images/horiseon1.png)
-![Horiseon 2](assets/images/horiseon1.png)
-![Horiseon 3](assets/images/horiseon1.png)
+![Horiseon 2](assets/images/horiseon2.png)
+![Horiseon 3](assets/images/horiseon3.png)
 
+Link to website  :
 
+https://shimna-puthanayil.github.io/horiseon-accessibility/
 
 ## Credits
 
@@ -37,7 +39,6 @@ https://developer.mozilla.org/en-US/docs/Learn/Accessibility/CSS_and_JavaScript
 https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing
 
 https://blog.hubspot.com/marketing/image-alt-text
-
 
 ## License
 
