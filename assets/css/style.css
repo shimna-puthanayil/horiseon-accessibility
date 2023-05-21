@@ -60,15 +60,14 @@ nav {
 p {
     font-size: 16px;
 }
-
-.hero {
-    height: 800px;
+.image-meeting {
+    height: 950px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
-    background-position: center;
+    background-position: center; 
 }
+
 
 .float-left {
     float: left;
