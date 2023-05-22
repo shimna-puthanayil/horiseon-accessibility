@@ -1,3 +1,6 @@
+/* ###############    GENERAL STYLES    ############### */
+
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,9 +10,11 @@
 body {
     background-color: #d9dcd6;
 }
+
 p {
     font-size: 16px;
 }
+
 h1 {
     display: inline-block;
     font-size: 48px;
@@ -23,10 +28,12 @@ h3 {
 ul {
     list-style-type: none;
 }
+
 li {
     display: inline-block;
     margin-left: 25px;
 }
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -44,6 +51,19 @@ a:active {
     text-decoration: underline;
   }
 
+
+/* ###############    UTILITIES    ############### */
+
+
+.h1-seo {
+    font-style: normal;
+    color: #d9dcd6;
+}
+
+
+/* ###############    SITE WIDE   ############### */
+
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -60,10 +80,15 @@ nav {
     font-size: 20px;
 }
 
-.seo {
-    font-style: normal;
-    color: #d9dcd6;
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
 }
+
+
+/* Styling of the image which comes after header  */
 
 
 .image-meeting {
@@ -74,11 +99,20 @@ nav {
     background-position: center; 
 }
 
-.content {
+
+/***************  CONTENT AREA WHICH INCLUDES 3 ARTICLES  ***************/
+
+
+/* Styles for the section which includes 3 articles. */
+
+.section-content {
     width: 75.4%;
     display: inline-block;
     margin-left: 20px;
 }
+
+/* Styling of the article */
+
 .article-content  {
     margin-bottom: 20px;
     padding: 50px;
@@ -87,13 +121,22 @@ nav {
     background-color: #0072bb;
     color: #ffffff;
 }
-.content h2{
+
+/* Styling of the article heading */
+
+.article-content h2{
     margin-bottom: 20px;
     font-size: 36px;
 }
-.content img {
+
+/* Image inside article */
+
+.article-content img {
     max-height: 200px;
 }
+
+/* Positioning and box styling of images inside article */
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -104,8 +147,15 @@ nav {
     margin-left: 25px;
 }
 
+/*************************************************************************/
 
-.benefits {
+
+/***************  BENEFITS AREA WHICH INCLUDES 3 SECTIONS  ***************/
+
+
+/* Styles for the aside area which includes 3 sections. */
+
+.aside-benefits {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -116,10 +166,14 @@ nav {
     background-color: #2589bd;
 }
 
+/* Styling of the benefit section */
+
 .benefit-section {
     margin-bottom: 32px;
     color: #ffffff;
 }
+
+/* Image inside benefit section */
 
 .benefit-section img {
     display: block;
@@ -127,13 +181,7 @@ nav {
     max-width: 150px;
 }
 
-
-footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
+/*************************************************************************/
 
 footer h2 {
     font-size: 20px;
